@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity implements DatePickerDialog.
             int diaHoy = hoy.get(Calendar.DAY_OF_MONTH), diaNacimiento = fecha.get(Calendar.DAY_OF_MONTH);
             int mesHoy = hoy.get(Calendar.MONTH), mesNacimiento = fecha.get(Calendar.MONTH);
             int anioHoy = hoy.get(Calendar.YEAR), anioNacimiento = fecha.get(Calendar.YEAR);
-            if ( (anioHoy - anioNacimiento < 10) || (((diaNacimiento > diaHoy && mesNacimiento == mesHoy) || mesNacimiento > mesHoy) && (anioHoy - anioNacimiento) == 10)){
+            if ( (anioHoy - anioNacimiento < 10) || (anioHoy - anioNacimiento > 100) || (((diaNacimiento > diaHoy && mesNacimiento == mesHoy) || mesNacimiento > mesHoy) && (anioHoy - anioNacimiento) == 10)){
                 Toast.makeText(this, getString(R.string.fechaError), Toast.LENGTH_LONG).show();
                 ok = false;
             }
