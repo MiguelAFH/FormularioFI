@@ -12,7 +12,7 @@
     <string name="nombreError">Type in your name</string>
     <string name="apellidoError">Type in you last name</string>
     <string name="numCuentaError">Type in a 9 digit number</string>
-    <string name="carreraError">Select your career</string>
+    <string name="carreraError">Select one career</string>
     <string name="fechaError">Select a valid date</string>
     <string name="selecciona">Select your career</string>
     <string name="aeroespacial">Aerospace engineering</string>

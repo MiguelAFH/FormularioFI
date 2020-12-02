@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formulaire FI</string>
+    <string name="formname">Formulaire FI</string>
+    <string name="appversion">Version 1.0</string>
+    <string name="dateText">Date de naissance</string>
+    <string name="namePH">Nom(s)</string>
+    <string name="lastNamePH">Prénoms</string>
+    <string name="numCuentaPH">Matricule</string>
+    <string name="enviarText">Envoyer</string>
+    <string name="selecciona">Choisissez votre carrière</string>
+    <string name="aeroespacial">Génie aérospatial</string>
+    <string name="ambiental">Génie environnemental</string>
+    <string name="civil">Génie civil</string>
+    <string name="computacion">Génie informatique</string>
+    <string name="electrica">Génie électrique et électronique</string>
+    <string name="geofrisica">Génie géophysique</string>
+    <string name="geologica">Génie géologique</string>
+    <string name="geomatica">Génie géomatique</string>
+    <string name="industrial">Génie industriel</string>
+    <string name="mecanica">Génie mécanique</string>
+    <string name="mecatronica">Génie mécatronique</string>
+    <string name="minas">Génie minier et des métaux</string>
+    <string name="petrolera">Génie petrolier</string>
+    <string name="biomedica">Génie des systèmes biomédicaux</string>
+    <string name="telecom">Génie des télécommunications</string>
+    <string name="anios">" ans"</string>
+    <string name="nombreError">Écrivez votre nom</string>
+    <string name="apellidoError">Écrivez votre prénom</string>
+    <string name="numCuentaError">Écrivez votre matricule</string>
+    <string name="carreraError">Choisissez une carrière</string>
+    <string name="fechaError">Choisissez une date valide</string>
+</resources>

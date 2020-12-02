@@ -58,6 +58,6 @@
     <string name="nombreError">Ingrese su nombre</string>
     <string name="apellidoError">Ingrese su apellido</string>
     <string name="numCuentaError">Ingrese un número de 9 dígitos</string>
-    <string name="carreraError">Seleccione su carrera</string>
+    <string name="carreraError">Seleccione una carrera</string>
     <string name="fechaError">ingrese una fecha válida</string>
 </resources>
