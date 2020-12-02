@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoscale">0.5</dimen>
+    <dimen name="calscale">0.5</dimen>
+    <dimen name="calendarscale">2</dimen>
+    <dimen name="anchoTextos">300dp</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Form FI</string>
+    <string name="formname">Form FI</string>
+    <string name="appversion">Version 1.0</string>
+    <string name="dateText">Birth date</string>
+    <string name="namePH">Name(s)</string>
+    <string name="lastNamePH">Last Names</string>
+    <string name="numCuentaPH">ID Number</string>
+    <string name="enviarText">Send</string>
+    <string name="anios">" years old"</string>
+    <string name="nombreError">Type in your name</string>
+    <string name="apellidoError">Type in you last name</string>
+    <string name="numCuentaError">Type in a 9 digit number</string>
+    <string name="carreraError">Select your career</string>
+    <string name="fechaError">Select a valid date</string>
+    <string name="selecciona">Select your career</string>
+    <string name="aeroespacial">Aerospace engineering</string>
+    <string name="ambiental">Environmental engineering</string>
+    <string name="civil">Civil engineering</string>
+    <string name="computacion">Computer engineering</string>
+    <string name="electrica">Electric and electronics engineering</string>
+    <string name="geofrisica">Geophysical engineering</string>
+    <string name="geologica">Geological engineering</string>
+    <string name="geomatica">Geomatics Engineering</string>
+    <string name="industrial">Industrial engineering</string>
+    <string name="mecanica">Mechanical engineering</string>
+    <string name="mecatronica">Mechatronics engineering</string>
+    <string name="minas">Mines and metallurgical engineering</string>
+    <string name="petrolera">Petroleum engineering</string>
+    <string name="biomedica">Biomedical systems engineering</string>
+    <string name="telecom">Telecommunications engineering</string>
+</resources>
